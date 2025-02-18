@@ -1,0 +1,1 @@
+This is a Flashcard Learning App built using the MERN stack (MongoDB, Express, React, Node.js). The app implements the Leitner System, a spaced repetition technique for efficient learning. Users can add, review, update, and delete flashcards, progressing through different levels based on their learning.
